@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu9225" alt="pasindu9225" /></a> </p>
 
-- 🔭 I’m currently working on **I am currently a undergraduate**
+- 🔭 I’m currently working on **I am currently undergraduate**
 
 - 🌱 I’m currently learning **university of sri jayawardhanapura**
 
