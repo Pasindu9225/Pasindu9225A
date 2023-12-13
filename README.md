@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **I am currently undergraduate**
 
-- 🌱 I’m currently learning **university of sri jayawardhanapura**
+- 🌱 I’m currently learning ** in university of sri jayawardhanapura**
 
 - ⚡ Fun fact [I think I am funny](I think I am funny)
 
